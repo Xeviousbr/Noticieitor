@@ -2,95 +2,95 @@
 <Noticias>
   <site>
     <Endereco>https://www.sciencealert.com</Endereco>
-    <pontos>551</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>559</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>2</seminteressante>
+    <seminteressante>1</seminteressante>
     <UltPosic>0</UltPosic>
   </site>
   <site>
     <Endereco>http://fisica2100.forumeiros.com/search?search_id=newposts</Endereco>
-    <pontos>489</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
-    <desatualizado>0</desatualizado>
+    <pontos>497</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
+    <desatualizado>1</desatualizado>
     <seminteressante>0</seminteressante>
     <UltPosic>1</UltPosic>
   </site>
   <site>
     <Endereco>http://www.taringa.net</Endereco>
-    <pontos>414</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>421</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>4</seminteressante>
+    <seminteressante>0</seminteressante>
     <UltPosic>2</UltPosic>
   </site>
   <site>
     <Endereco>http://www.tecmundo.com.br</Endereco>
-    <pontos>373</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>378</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>1</seminteressante>
+    <seminteressante>3</seminteressante>
     <UltPosic>3</UltPosic>
   </site>
   <site>
     <Endereco>https://www.inovacaotecnologica.com.br</Endereco>
-    <pontos>354</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>362</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>0</seminteressante>
+    <seminteressante>1</seminteressante>
     <UltPosic>4</UltPosic>
   </site>
   <site>
     <Endereco>https://olhardigital.com.br</Endereco>
-    <pontos>272</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>275</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>3</seminteressante>
+    <seminteressante>6</seminteressante>
     <UltPosic>5</UltPosic>
   </site>
   <site>
     <Endereco>http://engenhariae.com.br</Endereco>
-    <pontos>255</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
+    <pontos>258</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>0</seminteressante>
+    <seminteressante>1</seminteressante>
     <UltPosic>6</UltPosic>
   </site>
   <site>
     <Endereco>https://incrivel.club/</Endereco>
-    <pontos>250</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
-    <desatualizado>0</desatualizado>
+    <pontos>256</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
+    <desatualizado>1</desatualizado>
     <seminteressante>0</seminteressante>
     <UltPosic>7</UltPosic>
   </site>
   <site>
-    <Endereco>https://brasil.elpais.com</Endereco>
-    <pontos>236</pontos>
-    <DtUltVis>14/09/2020</DtUltVis>
-    <desatualizado>0</desatualizado>
-    <seminteressante>0</seminteressante>
-    <UltPosic>8</UltPosic>
-  </site>
-  <site>
     <Endereco>https://hypescience.com/</Endereco>
-    <pontos>233</pontos>
-    <DtUltVis>16/08/2020</DtUltVis>
+    <pontos>239</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
     <UltPosic>9</UltPosic>
   </site>
   <site>
-    <Endereco>http://gizmodo.uol.com.br</Endereco>
-    <pontos>211</pontos>
-    <DtUltVis>29/07/2020</DtUltVis>
+    <Endereco>https://brasil.elpais.com</Endereco>
+    <pontos>238</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
     <desatualizado>0</desatualizado>
-    <seminteressante>7</seminteressante>
+    <seminteressante>2</seminteressante>
+    <UltPosic>8</UltPosic>
+  </site>
+  <site>
+    <Endereco>http://gizmodo.uol.com.br</Endereco>
+    <pontos>212</pontos>
+    <DtUltVis>18/09/2020</DtUltVis>
+    <desatualizado>0</desatualizado>
+    <seminteressante>8</seminteressante>
     <UltPosic>10</UltPosic>
   </site>
   <site>
     <Endereco>https://www.bbc.com/portuguese</Endereco>
-    <pontos>211</pontos>
+    <pontos>212</pontos>
     <DtUltVis>29/07/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -98,7 +98,7 @@
   </site>
   <site>
     <Endereco>https://www.popsci.com</Endereco>
-    <pontos>202</pontos>
+    <pontos>203</pontos>
     <DtUltVis>29/07/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -106,7 +106,7 @@
   </site>
   <site>
     <Endereco>https://www.baguete.com.br/noticias</Endereco>
-    <pontos>195</pontos>
+    <pontos>196</pontos>
     <DtUltVis>02/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -114,7 +114,7 @@
   </site>
   <site>
     <Endereco>https://www.boredpanda.com/</Endereco>
-    <pontos>189</pontos>
+    <pontos>190</pontos>
     <DtUltVis>02/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -122,7 +122,7 @@
   </site>
   <site>
     <Endereco>https://www.sciencedaily.com/news/top/science</Endereco>
-    <pontos>188</pontos>
+    <pontos>189</pontos>
     <DtUltVis>02/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -130,7 +130,7 @@
   </site>
   <site>
     <Endereco>https://www.mdig.com.br/</Endereco>
-    <pontos>182</pontos>
+    <pontos>183</pontos>
     <DtUltVis>02/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -138,7 +138,7 @@
   </site>
   <site>
     <Endereco>https://www.naointendo.com.br</Endereco>
-    <pontos>181</pontos>
+    <pontos>182</pontos>
     <DtUltVis>02/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -146,7 +146,7 @@
   </site>
   <site>
     <Endereco>http://noticia-final.blogspot.com.br</Endereco>
-    <pontos>170</pontos>
+    <pontos>171</pontos>
     <DtUltVis>03/03/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -154,7 +154,7 @@
   </site>
   <site>
     <Endereco>https://agoranors.com</Endereco>
-    <pontos>168</pontos>
+    <pontos>169</pontos>
     <DtUltVis>29/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -162,7 +162,7 @@
   </site>
   <site>
     <Endereco>https://difundir.org/</Endereco>
-    <pontos>167</pontos>
+    <pontos>168</pontos>
     <DtUltVis>29/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -170,7 +170,7 @@
   </site>
   <site>
     <Endereco>https://www.amusingplanet.com</Endereco>
-    <pontos>166</pontos>
+    <pontos>167</pontos>
     <DtUltVis>29/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -178,7 +178,7 @@
   </site>
   <site>
     <Endereco>https://www.unocero.com</Endereco>
-    <pontos>158</pontos>
+    <pontos>159</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -186,7 +186,7 @@
   </site>
   <site>
     <Endereco>https://www.medicalnewstoday.com/</Endereco>
-    <pontos>157</pontos>
+    <pontos>158</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -194,7 +194,7 @@
   </site>
   <site>
     <Endereco>http://obutecodanet.ig.com.br</Endereco>
-    <pontos>154</pontos>
+    <pontos>155</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -202,7 +202,7 @@
   </site>
   <site>
     <Endereco>http://humansarefree.com/</Endereco>
-    <pontos>133</pontos>
+    <pontos>134</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -210,7 +210,7 @@
   </site>
   <site>
     <Endereco>https://www.theverge.com</Endereco>
-    <pontos>132</pontos>
+    <pontos>133</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -218,7 +218,7 @@
   </site>
   <site>
     <Endereco>https://www.tudointeressante.com.br/</Endereco>
-    <pontos>127</pontos>
+    <pontos>128</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -226,7 +226,7 @@
   </site>
   <site>
     <Endereco>https://www.treehugger.com/</Endereco>
-    <pontos>121</pontos>
+    <pontos>122</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -234,7 +234,7 @@
   </site>
   <site>
     <Endereco>https://www.cbc.ca/</Endereco>
-    <pontos>119</pontos>
+    <pontos>120</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -242,7 +242,7 @@
   </site>
   <site>
     <Endereco>http://www.astropt.org</Endereco>
-    <pontos>117</pontos>
+    <pontos>118</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>1</desatualizado>
     <seminteressante>1</seminteressante>
@@ -250,7 +250,7 @@
   </site>
   <site>
     <Endereco>http://computerhoy.com</Endereco>
-    <pontos>117</pontos>
+    <pontos>118</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -258,7 +258,7 @@
   </site>
   <site>
     <Endereco>https://www.ahnegao.com.br/</Endereco>
-    <pontos>116</pontos>
+    <pontos>117</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -266,7 +266,7 @@
   </site>
   <site>
     <Endereco>https://forum.imasters.com.br/tempo-real/</Endereco>
-    <pontos>116</pontos>
+    <pontos>117</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -274,7 +274,7 @@
   </site>
   <site>
     <Endereco>https://www.diariodasaude.com.br/listnews.php</Endereco>
-    <pontos>116</pontos>
+    <pontos>117</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -282,7 +282,7 @@
   </site>
   <site>
     <Endereco>http://www.jornalciencia.com</Endereco>
-    <pontos>115</pontos>
+    <pontos>116</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>4</seminteressante>
@@ -290,7 +290,7 @@
   </site>
   <site>
     <Endereco>http://ciclovivo.com.br</Endereco>
-    <pontos>114</pontos>
+    <pontos>115</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -298,7 +298,7 @@
   </site>
   <site>
     <Endereco>http://tonocosmos.com.br/</Endereco>
-    <pontos>111</pontos>
+    <pontos>112</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -306,7 +306,7 @@
   </site>
   <site>
     <Endereco>http://www.sonoticiaboa.com.br/</Endereco>
-    <pontos>110</pontos>
+    <pontos>111</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -314,7 +314,7 @@
   </site>
   <site>
     <Endereco>https://noticiaalternativa.com.br</Endereco>
-    <pontos>110</pontos>
+    <pontos>111</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -322,7 +322,7 @@
   </site>
   <site>
     <Endereco>https://ultimosegundo.ig.com.br/ciencia/</Endereco>
-    <pontos>110</pontos>
+    <pontos>111</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -330,7 +330,7 @@
   </site>
   <site>
     <Endereco>https://futurism.com</Endereco>
-    <pontos>109</pontos>
+    <pontos>110</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -338,7 +338,7 @@
   </site>
   <site>
     <Endereco>https://www.galeriadometeorito.com/</Endereco>
-    <pontos>109</pontos>
+    <pontos>110</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -346,7 +346,7 @@
   </site>
   <site>
     <Endereco>https://www.insoonia.com/</Endereco>
-    <pontos>108</pontos>
+    <pontos>109</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -354,7 +354,7 @@
   </site>
   <site>
     <Endereco>https://www.humordido.net</Endereco>
-    <pontos>108</pontos>
+    <pontos>109</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -362,7 +362,7 @@
   </site>
   <site>
     <Endereco>https://g1.globo.com/natureza/</Endereco>
-    <pontos>107</pontos>
+    <pontos>108</pontos>
     <DtUltVis>28/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -370,7 +370,7 @@
   </site>
   <site>
     <Endereco>https://www2.uol.com.br/sciam/noticias/</Endereco>
-    <pontos>106</pontos>
+    <pontos>107</pontos>
     <DtUltVis>29/10/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -378,7 +378,7 @@
   </site>
   <site>
     <Endereco>https://www.dw.com</Endereco>
-    <pontos>105</pontos>
+    <pontos>106</pontos>
     <DtUltVis>29/10/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>7</seminteressante>
@@ -386,7 +386,7 @@
   </site>
   <site>
     <Endereco>https://www.portalvideo.blog.br</Endereco>
-    <pontos>103</pontos>
+    <pontos>104</pontos>
     <DtUltVis>29/11/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -394,7 +394,7 @@
   </site>
   <site>
     <Endereco>https://link.springer.com/search?facet-content-type=Article</Endereco>
-    <pontos>103</pontos>
+    <pontos>104</pontos>
     <DtUltVis>29/10/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -402,7 +402,7 @@
   </site>
   <site>
     <Endereco>https://www.portalsolar.com.br/blog-solar</Endereco>
-    <pontos>101</pontos>
+    <pontos>102</pontos>
     <DtUltVis>29/11/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>7</seminteressante>
@@ -410,7 +410,7 @@
   </site>
   <site>
     <Endereco>http://www.ndig.com.br</Endereco>
-    <pontos>101</pontos>
+    <pontos>102</pontos>
     <DtUltVis>29/11/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -418,7 +418,7 @@
   </site>
   <site>
     <Endereco>https://noticias.uol.com.br/saude</Endereco>
-    <pontos>101</pontos>
+    <pontos>102</pontos>
     <DtUltVis>29/11/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -426,7 +426,7 @@
   </site>
   <site>
     <Endereco>http://noticias.ambientebrasil.com.br/</Endereco>
-    <pontos>101</pontos>
+    <pontos>102</pontos>
     <DtUltVis>26/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -434,7 +434,7 @@
   </site>
   <site>
     <Endereco>https://forum.outerspace.com.br/index.php</Endereco>
-    <pontos>100</pontos>
+    <pontos>101</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -442,7 +442,7 @@
   </site>
   <site>
     <Endereco>https://www.sitedecuriosidades.com/ciencias/</Endereco>
-    <pontos>98</pontos>
+    <pontos>99</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>0</seminteressante>
@@ -450,7 +450,7 @@
   </site>
   <site>
     <Endereco>https://g1.globo.com/olha-que-legal/</Endereco>
-    <pontos>98</pontos>
+    <pontos>99</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -458,7 +458,7 @@
   </site>
   <site>
     <Endereco>https://exame.abril.com.br/noticias-sobre/meio-ambiente/</Endereco>
-    <pontos>98</pontos>
+    <pontos>99</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -466,7 +466,7 @@
   </site>
   <site>
     <Endereco>https://jornaldeboasnoticias.com.br/</Endereco>
-    <pontos>97</pontos>
+    <pontos>98</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>4</seminteressante>
@@ -474,7 +474,7 @@
   </site>
   <site>
     <Endereco>https://www.ecycle.com.br/index.php</Endereco>
-    <pontos>97</pontos>
+    <pontos>98</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -482,7 +482,7 @@
   </site>
   <site>
     <Endereco>https://www.sciencenews.org/</Endereco>
-    <pontos>97</pontos>
+    <pontos>98</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -490,7 +490,7 @@
   </site>
   <site>
     <Endereco>https://www.bbc.com/portuguese/topics/0f469e6a-d4a6-46f2-b727-2bd039cb6b53</Endereco>
-    <pontos>96</pontos>
+    <pontos>97</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>10</seminteressante>
@@ -498,7 +498,7 @@
   </site>
   <site>
     <Endereco>https://www.oeco.org.br/noticias/</Endereco>
-    <pontos>96</pontos>
+    <pontos>97</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -506,7 +506,7 @@
   </site>
   <site>
     <Endereco>http://www.zenite.nu/</Endereco>
-    <pontos>95</pontos>
+    <pontos>96</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>6</seminteressante>
@@ -514,7 +514,7 @@
   </site>
   <site>
     <Endereco>http://www.gadoo.com.br</Endereco>
-    <pontos>95</pontos>
+    <pontos>96</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -522,7 +522,7 @@
   </site>
   <site>
     <Endereco>http://scienceblogs.com.br/</Endereco>
-    <pontos>95</pontos>
+    <pontos>96</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -530,7 +530,7 @@
   </site>
   <site>
     <Endereco>http://www.dol.inf.br/</Endereco>
-    <pontos>94</pontos>
+    <pontos>95</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>3</seminteressante>
@@ -538,7 +538,7 @@
   </site>
   <site>
     <Endereco>https://forum.baboo.com.br/</Endereco>
-    <pontos>94</pontos>
+    <pontos>95</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -546,7 +546,7 @@
   </site>
   <site>
     <Endereco>http://envolverde.cartacapital.com.br/</Endereco>
-    <pontos>94</pontos>
+    <pontos>95</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>9</seminteressante>
@@ -554,7 +554,7 @@
   </site>
   <site>
     <Endereco>https://universoracionalista.org/categoria/noticias/</Endereco>
-    <pontos>94</pontos>
+    <pontos>95</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -562,7 +562,7 @@
   </site>
   <site>
     <Endereco>https://mundosustentavel.com.br/</Endereco>
-    <pontos>93</pontos>
+    <pontos>94</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>5</seminteressante>
@@ -570,7 +570,7 @@
   </site>
   <site>
     <Endereco>https://veja.abril.com.br/noticias-sobre/ecologia/</Endereco>
-    <pontos>93</pontos>
+    <pontos>94</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -578,7 +578,7 @@
   </site>
   <site>
     <Endereco>https://www.socioambiental.org/pt-br</Endereco>
-    <pontos>93</pontos>
+    <pontos>94</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -586,7 +586,7 @@
   </site>
   <site>
     <Endereco>https://brasil.elpais.com/tag/ecologia</Endereco>
-    <pontos>92</pontos>
+    <pontos>93</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -594,7 +594,7 @@
   </site>
   <site>
     <Endereco>http://lista10.org/</Endereco>
-    <pontos>92</pontos>
+    <pontos>93</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -602,7 +602,7 @@
   </site>
   <site>
     <Endereco>https://www.gamevicio.com/</Endereco>
-    <pontos>92</pontos>
+    <pontos>93</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -610,7 +610,7 @@
   </site>
   <site>
     <Endereco>http://www.jornaldaciencia.org.br/divulgacao-cientifica/</Endereco>
-    <pontos>91</pontos>
+    <pontos>92</pontos>
     <DtUltVis>02/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>5</seminteressante>
@@ -618,7 +618,7 @@
   </site>
   <site>
     <Endereco>http://revistaecologico.com.br/revista/</Endereco>
-    <pontos>90</pontos>
+    <pontos>91</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>5</seminteressante>
@@ -626,7 +626,7 @@
   </site>
   <site>
     <Endereco>https://marcianosmx.com/</Endereco>
-    <pontos>90</pontos>
+    <pontos>91</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -634,7 +634,7 @@
   </site>
   <site>
     <Endereco>https://seuhistory.com/noticias</Endereco>
-    <pontos>89</pontos>
+    <pontos>90</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -642,7 +642,7 @@
   </site>
   <site>
     <Endereco>https://www.laguiadelvaron.com/</Endereco>
-    <pontos>89</pontos>
+    <pontos>90</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -650,7 +650,7 @@
   </site>
   <site>
     <Endereco>https://www.agenciaweb.info</Endereco>
-    <pontos>88</pontos>
+    <pontos>89</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>7</desatualizado>
     <seminteressante>1</seminteressante>
@@ -658,7 +658,7 @@
   </site>
   <site>
     <Endereco>http://www.comciencia.br/</Endereco>
-    <pontos>88</pontos>
+    <pontos>89</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -666,7 +666,7 @@
   </site>
   <site>
     <Endereco>http://www.oversodoinverso.com.br</Endereco>
-    <pontos>88</pontos>
+    <pontos>89</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>2</seminteressante>
@@ -674,7 +674,7 @@
   </site>
   <site>
     <Endereco>http://www.tickld.com</Endereco>
-    <pontos>88</pontos>
+    <pontos>89</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -682,7 +682,7 @@
   </site>
   <site>
     <Endereco>https://boasnoticias.pt/</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>6</desatualizado>
     <seminteressante>1</seminteressante>
@@ -690,7 +690,7 @@
   </site>
   <site>
     <Endereco>http://www.siteastronomia.com</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>6</desatualizado>
     <seminteressante>1</seminteressante>
@@ -698,7 +698,7 @@
   </site>
   <site>
     <Endereco>http://www.ecodesenvolvimento.org/index.htm</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>6</desatualizado>
     <seminteressante>2</seminteressante>
@@ -706,7 +706,7 @@
   </site>
   <site>
     <Endereco>http://brasiluniversodigital.blogspot.com.br</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>5</desatualizado>
     <seminteressante>0</seminteressante>
@@ -714,7 +714,7 @@
   </site>
   <site>
     <Endereco>http://atitudesustentavel.com.br/</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>2</seminteressante>
@@ -722,7 +722,7 @@
   </site>
   <site>
     <Endereco>https://tuul.tv</Endereco>
-    <pontos>87</pontos>
+    <pontos>88</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -730,7 +730,7 @@
   </site>
   <site>
     <Endereco>http://www.scienceforbrazil.com/</Endereco>
-    <pontos>86</pontos>
+    <pontos>87</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>4</desatualizado>
     <seminteressante>1</seminteressante>
@@ -738,7 +738,7 @@
   </site>
   <site>
     <Endereco>http://qga.com.br/</Endereco>
-    <pontos>86</pontos>
+    <pontos>87</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>3</desatualizado>
     <seminteressante>4</seminteressante>
@@ -746,7 +746,7 @@
   </site>
   <site>
     <Endereco>http://www.curtoecurioso.com</Endereco>
-    <pontos>86</pontos>
+    <pontos>87</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -754,7 +754,7 @@
   </site>
   <site>
     <Endereco>http://www.treta.com.br</Endereco>
-    <pontos>86</pontos>
+    <pontos>87</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -762,7 +762,7 @@
   </site>
   <site>
     <Endereco>https://g1.globo.com/</Endereco>
-    <pontos>86</pontos>
+    <pontos>87</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>3</seminteressante>
@@ -770,7 +770,7 @@
   </site>
   <site>
     <Endereco>https://noticias.r7.com/brasil/noticia-boa</Endereco>
-    <pontos>85</pontos>
+    <pontos>86</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>8</desatualizado>
     <seminteressante>0</seminteressante>
@@ -778,7 +778,7 @@
   </site>
   <site>
     <Endereco>http://www.ecogeek.org/</Endereco>
-    <pontos>85</pontos>
+    <pontos>86</pontos>
     <DtUltVis>26/07/2019</DtUltVis>
     <desatualizado>7</desatualizado>
     <seminteressante>0</seminteressante>
@@ -786,7 +786,7 @@
   </site>
   <site>
     <Endereco>http://www.viralnova.com/</Endereco>
-    <pontos>85</pontos>
+    <pontos>86</pontos>
     <DtUltVis>06/05/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>1</seminteressante>
@@ -794,7 +794,7 @@
   </site>
   <site>
     <Endereco>https://www.genengnews.com/</Endereco>
-    <pontos>85</pontos>
+    <pontos>86</pontos>
     <DtUltVis>03/05/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -802,7 +802,7 @@
   </site>
   <site>
     <Endereco>https://www.hardmob.com.br/content/</Endereco>
-    <pontos>85</pontos>
+    <pontos>86</pontos>
     <DtUltVis>03/05/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>1</seminteressante>
@@ -810,7 +810,7 @@
   </site>
   <site>
     <Endereco>https://misteriosdomundo.org/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>06/05/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>0</seminteressante>
@@ -818,7 +818,7 @@
   </site>
   <site>
     <Endereco>https://tudorocha.blogspot.com</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>06/05/2019</DtUltVis>
     <desatualizado>2</desatualizado>
     <seminteressante>0</seminteressante>
@@ -826,7 +826,7 @@
   </site>
   <site>
     <Endereco>https://www.fatosdesconhecidos.com.br/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>03/05/2019</DtUltVis>
     <desatualizado>1</desatualizado>
     <seminteressante>0</seminteressante>
@@ -834,7 +834,7 @@
   </site>
   <site>
     <Endereco>https://www.megacurioso.com.br/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -842,7 +842,7 @@
   </site>
   <site>
     <Endereco>https://www.omachoalpha.com.br/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -850,7 +850,7 @@
   </site>
   <site>
     <Endereco>https://www.paraoscuriosos.com/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -858,7 +858,7 @@
   </site>
   <site>
     <Endereco>https://www.paulopes.com.br/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -866,7 +866,7 @@
   </site>
   <site>
     <Endereco>https://www.planetacurioso.com/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -874,7 +874,7 @@
   </site>
   <site>
     <Endereco>https://www.vamoslaportugal.com/</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -882,7 +882,7 @@
   </site>
   <site>
     <Endereco>https://www.vice.com/pt_br/topic/motherboard</Endereco>
-    <pontos>84</pontos>
+    <pontos>85</pontos>
     <DtUltVis>17/02/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -890,7 +890,7 @@
   </site>
   <site>
     <Endereco>https://www.naturalnews.com</Endereco>
-    <pontos>83</pontos>
+    <pontos>84</pontos>
     <DtUltVis>07/05/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -898,7 +898,7 @@
   </site>
   <site>
     <Endereco>https://www.disclose.tv</Endereco>
-    <pontos>83</pontos>
+    <pontos>84</pontos>
     <DtUltVis>09/05/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -906,7 +906,7 @@
   </site>
   <site>
     <Endereco>https://www.technocracy.news</Endereco>
-    <pontos>83</pontos>
+    <pontos>84</pontos>
     <DtUltVis>09/05/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -914,7 +914,7 @@
   </site>
   <site>
     <Endereco>https://tiinside.com.br</Endereco>
-    <pontos>69</pontos>
+    <pontos>70</pontos>
     <DtUltVis>30/07/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -922,7 +922,7 @@
   </site>
   <site>
     <Endereco>https://www.infomoney.com.br/ultimas-noticias</Endereco>
-    <pontos>69</pontos>
+    <pontos>70</pontos>
     <DtUltVis>01/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -930,7 +930,7 @@
   </site>
   <site>
     <Endereco>teste</Endereco>
-    <pontos>69</pontos>
+    <pontos>70</pontos>
     <DtUltVis>04/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -938,7 +938,7 @@
   </site>
   <site>
     <Endereco>https://universoracionalista.org/</Endereco>
-    <pontos>69</pontos>
+    <pontos>70</pontos>
     <DtUltVis>04/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -946,7 +946,7 @@
   </site>
   <site>
     <Endereco>https://www.livescience.com/</Endereco>
-    <pontos>64</pontos>
+    <pontos>65</pontos>
     <DtUltVis>25/08/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -954,7 +954,7 @@
   </site>
   <site>
     <Endereco>https://twitter.com/billgates</Endereco>
-    <pontos>57</pontos>
+    <pontos>58</pontos>
     <DtUltVis>24/10/2019</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
@@ -962,7 +962,7 @@
   </site>
   <site>
     <Endereco>https://meiobit.com/</Endereco>
-    <pontos>56</pontos>
+    <pontos>57</pontos>
     <DtUltVis>01/01/2020</DtUltVis>
     <desatualizado>0</desatualizado>
     <seminteressante>0</seminteressante>
