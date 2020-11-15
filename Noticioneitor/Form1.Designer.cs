@@ -47,6 +47,8 @@
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.picDesce = new System.Windows.Forms.PictureBox();
             this.chFechar = new System.Windows.Forms.CheckBox();
+            this.lbPonto = new System.Windows.Forms.Label();
+            this.lbInfProxAnt = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picSobe)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picDesce)).BeginInit();
             this.SuspendLayout();
@@ -130,9 +132,10 @@
             // 
             // lbInf
             // 
-            this.lbInf.Location = new System.Drawing.Point(342, 27);
+            this.lbInf.BackColor = System.Drawing.SystemColors.Control;
+            this.lbInf.Location = new System.Drawing.Point(404, 27);
             this.lbInf.Name = "lbInf";
-            this.lbInf.Size = new System.Drawing.Size(150, 18);
+            this.lbInf.Size = new System.Drawing.Size(146, 18);
             this.lbInf.TabIndex = 9;
             // 
             // timer1
@@ -205,11 +208,29 @@
             this.chFechar.UseVisualStyleBackColor = true;
             this.chFechar.Click += new System.EventHandler(this.chFechar_Click);
             // 
+            // lbPonto
+            // 
+            this.lbPonto.BackColor = System.Drawing.SystemColors.Control;
+            this.lbPonto.Location = new System.Drawing.Point(351, 27);
+            this.lbPonto.Name = "lbPonto";
+            this.lbPonto.Size = new System.Drawing.Size(47, 18);
+            this.lbPonto.TabIndex = 16;
+            // 
+            // lbInfProxAnt
+            // 
+            this.lbInfProxAnt.BackColor = System.Drawing.SystemColors.Control;
+            this.lbInfProxAnt.Location = new System.Drawing.Point(351, 9);
+            this.lbInfProxAnt.Name = "lbInfProxAnt";
+            this.lbInfProxAnt.Size = new System.Drawing.Size(47, 18);
+            this.lbInfProxAnt.TabIndex = 17;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(562, 124);
+            this.Controls.Add(this.lbInfProxAnt);
+            this.Controls.Add(this.lbPonto);
             this.Controls.Add(this.chFechar);
             this.Controls.Add(this.picDesce);
             this.Controls.Add(this.picSobe);
@@ -257,6 +278,8 @@
         private System.Windows.Forms.ImageList imageList1;
         private System.Windows.Forms.PictureBox picDesce;
         private System.Windows.Forms.CheckBox chFechar;
+        private System.Windows.Forms.Label lbPonto;
+        private System.Windows.Forms.Label lbInfProxAnt;
     }
 }
 

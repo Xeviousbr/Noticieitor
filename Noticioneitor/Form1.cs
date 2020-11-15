@@ -173,7 +173,6 @@ namespace Noticioneitor
                 } else {
                     lnkProximo.Text = "";
                 }
-
                 int PosAnt = int.Parse(dsResultado.Tables[0].Rows[IndiceSite][colUltPosic].ToString());
 
                 if (PosAnt == IndiceSite)
@@ -183,18 +182,6 @@ namespace Noticioneitor
                 }
                 else
                 {
-
-                    /* 
-                        {
-                            picSobe.Visible = false;
-                            picDesce.Visible = true;
-                        } else
-                        {
-                            picSobe.Visible = true;
-                            picDesce.Visible = false;
-                        }
-                    */
-
                     if (PosAnt > IndiceSite)
                     {
                         picSobe.Visible = true;
@@ -246,8 +233,10 @@ namespace Noticioneitor
             {
                 lbInfProx.Text = Mens;
             } else
-            {
+            {                
                 lbInf.Text = Mens;
+                lbInfProxAnt.Text = lbPonto.Text;
+                lbPonto.Text = dsResultado.Tables[0].Rows[Ind][colpontos].ToString();
             }
         }
 
