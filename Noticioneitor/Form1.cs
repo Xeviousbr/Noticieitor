@@ -14,6 +14,7 @@ namespace Noticioneitor
         private const int coldesatualizado = 3;
         private const int colseminteressante = 4;
         private const int colUltPosic = 5;
+        private const int colpontosAnt = 6;
 
         private int NrSites = 0;
         private DataSet dsResultado = new DataSet();
@@ -103,6 +104,7 @@ namespace Noticioneitor
                 Sites Item = new Sites();
                 Item.Endereco = dsResultado.Tables[0].Rows[i][colEndereco].ToString();
                 Item.pontos = int.Parse(dsResultado.Tables[0].Rows[i][colpontos].ToString());
+                Item.pontosAnt = int.Parse(dsResultado.Tables[0].Rows[i][colpontosAnt].ToString());
                 Item.UltPosic = i;
                 sData = dsResultado.Tables[0].Rows[i][colDtUltVis].ToString();
                 Item.DtUltVis = DateTime.Parse(sData);
@@ -130,26 +132,29 @@ namespace Noticioneitor
             dsNewRes.DataSetName = "Noticias";
             dsNewRes.Tables.Add("site");
             DataColumn dcEndereco = new DataColumn("Endereco", typeof(String));
-            DataColumn dcpontos = new DataColumn("pontos", typeof(int));
+            DataColumn dcpontos = new DataColumn("pontos", typeof(int));            
             DataColumn dcDtUltVis = new DataColumn("DtUltVis", typeof(String));
             DataColumn dcdesatualizado = new DataColumn("desatualizado", typeof(int));
             DataColumn dcseminteressante = new DataColumn("seminteressante", typeof(int));
             DataColumn dcUltPosic = new DataColumn("UltPosic", typeof(int));
+            DataColumn dcpontoAnt = new DataColumn("pontoAnt", typeof(int));
             dsNewRes.Tables[0].Columns.Add(dcEndereco);
-            dsNewRes.Tables[0].Columns.Add(dcpontos);
+            dsNewRes.Tables[0].Columns.Add(dcpontos);            
             dsNewRes.Tables[0].Columns.Add(dcDtUltVis);
             dsNewRes.Tables[0].Columns.Add(dcdesatualizado);
             dsNewRes.Tables[0].Columns.Add(dcseminteressante);
             dsNewRes.Tables[0].Columns.Add(dcUltPosic);
+            dsNewRes.Tables[0].Columns.Add(dcpontoAnt);
             for (int i = 0; i < NrSites; i++)
             {
                 DataRow nR = dsNewRes.Tables[0].NewRow();
                 nR[colEndereco] = Novalista[i].Endereco;
-                nR[colpontos] = Novalista[i].pontos;
+                nR[colpontos] = Novalista[i].pontos;                
                 nR[colDtUltVis] = Novalista[i].DtUltVis.ToShortDateString();
                 nR[coldesatualizado] = Novalista[i].desatualizado;
                 nR[colseminteressante] = Novalista[i].seminteressante;
                 nR[colUltPosic] = Novalista[i].UltPosic;
+                nR[colpontosAnt] = Novalista[i].pontosAnt;
                 dsNewRes.Tables[0].Rows.Add(nR);
             }
             dsNewRes.WriteXml(pathXML);
@@ -236,6 +241,7 @@ namespace Noticioneitor
             {                
                 lbInf.Text = Mens;
                 lbInfProxAnt.Text = lbPonto.Text;
+                lbInAntAnt.Text = lbPontoAnt.Text;
                 lbPonto.Text = dsResultado.Tables[0].Rows[Ind][colpontos].ToString();
             }
         }
@@ -284,6 +290,16 @@ namespace Noticioneitor
             if (pontos>0)
             {
                 int Sitepontos = int.Parse(dsResultado.Tables[0].Rows[IndiceSite][colpontos].ToString());
+
+                try
+                {
+                    dsResultado.Tables[0].Rows[IndiceSite][colpontosAnt] = Sitepontos.ToString();
+                }
+                catch (Exception)
+                {
+                    // Só deve dar erro aqui na primeira execussão, depois que criei a coluna colpontosAnt
+                }
+
                 Sitepontos += pontos;
                 dsResultado.Tables[0].Rows[IndiceSite][colpontos] = Sitepontos.ToString();
                 dsResultado.Tables[0].Rows[IndiceSite][coldesatualizado] = "0";

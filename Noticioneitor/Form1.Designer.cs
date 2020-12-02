@@ -49,6 +49,8 @@
             this.chFechar = new System.Windows.Forms.CheckBox();
             this.lbPonto = new System.Windows.Forms.Label();
             this.lbInfProxAnt = new System.Windows.Forms.Label();
+            this.lbPontoAnt = new System.Windows.Forms.Label();
+            this.lbInAntAnt = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picSobe)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picDesce)).BeginInit();
             this.SuspendLayout();
@@ -133,9 +135,9 @@
             // lbInf
             // 
             this.lbInf.BackColor = System.Drawing.SystemColors.Control;
-            this.lbInf.Location = new System.Drawing.Point(404, 27);
+            this.lbInf.Location = new System.Drawing.Point(414, 27);
             this.lbInf.Name = "lbInf";
-            this.lbInf.Size = new System.Drawing.Size(146, 18);
+            this.lbInf.Size = new System.Drawing.Size(138, 18);
             this.lbInf.TabIndex = 9;
             // 
             // timer1
@@ -213,7 +215,7 @@
             this.lbPonto.BackColor = System.Drawing.SystemColors.Control;
             this.lbPonto.Location = new System.Drawing.Point(351, 27);
             this.lbPonto.Name = "lbPonto";
-            this.lbPonto.Size = new System.Drawing.Size(47, 18);
+            this.lbPonto.Size = new System.Drawing.Size(31, 18);
             this.lbPonto.TabIndex = 16;
             // 
             // lbInfProxAnt
@@ -221,14 +223,32 @@
             this.lbInfProxAnt.BackColor = System.Drawing.SystemColors.Control;
             this.lbInfProxAnt.Location = new System.Drawing.Point(351, 9);
             this.lbInfProxAnt.Name = "lbInfProxAnt";
-            this.lbInfProxAnt.Size = new System.Drawing.Size(47, 18);
+            this.lbInfProxAnt.Size = new System.Drawing.Size(30, 18);
             this.lbInfProxAnt.TabIndex = 17;
+            // 
+            // lbPontoAnt
+            // 
+            this.lbPontoAnt.BackColor = System.Drawing.SystemColors.Control;
+            this.lbPontoAnt.Location = new System.Drawing.Point(388, 27);
+            this.lbPontoAnt.Name = "lbPontoAnt";
+            this.lbPontoAnt.Size = new System.Drawing.Size(31, 18);
+            this.lbPontoAnt.TabIndex = 18;
+            // 
+            // lbInAntAnt
+            // 
+            this.lbInAntAnt.BackColor = System.Drawing.SystemColors.Control;
+            this.lbInAntAnt.Location = new System.Drawing.Point(388, 9);
+            this.lbInAntAnt.Name = "lbInAntAnt";
+            this.lbInAntAnt.Size = new System.Drawing.Size(31, 18);
+            this.lbInAntAnt.TabIndex = 19;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(562, 124);
+            this.Controls.Add(this.lbInAntAnt);
+            this.Controls.Add(this.lbPontoAnt);
             this.Controls.Add(this.lbInfProxAnt);
             this.Controls.Add(this.lbPonto);
             this.Controls.Add(this.chFechar);
@@ -280,6 +300,8 @@
         private System.Windows.Forms.CheckBox chFechar;
         private System.Windows.Forms.Label lbPonto;
         private System.Windows.Forms.Label lbInfProxAnt;
+        private System.Windows.Forms.Label lbPontoAnt;
+        private System.Windows.Forms.Label lbInAntAnt;
     }
 }
 
