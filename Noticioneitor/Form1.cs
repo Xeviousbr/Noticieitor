@@ -55,6 +55,7 @@ namespace Noticioneitor
                 OK = Mostrar();
                 if (OK)
                 {
+                    Globais.Maximo = int.Parse(dsResultado.Tables[0].Rows[0][colpontos].ToString());
                     System.Diagnostics.Process.Start(linkLabel.Text);
                 }                
             }
@@ -104,7 +105,14 @@ namespace Noticioneitor
                 Sites Item = new Sites();
                 Item.Endereco = dsResultado.Tables[0].Rows[i][colEndereco].ToString();
                 Item.pontos = int.Parse(dsResultado.Tables[0].Rows[i][colpontos].ToString());
-                Item.pontosAnt = int.Parse(dsResultado.Tables[0].Rows[i][colpontosAnt].ToString());
+                try
+                {
+                    Item.pontosAnt = int.Parse(dsResultado.Tables[0].Rows[i][colpontosAnt].ToString());
+                }
+                catch (Exception)
+                {
+                    Item.pontosAnt = Item.pontos;
+                }                
                 Item.UltPosic = i;
                 sData = dsResultado.Tables[0].Rows[i][colDtUltVis].ToString();
                 Item.DtUltVis = DateTime.Parse(sData);
